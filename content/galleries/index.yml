@@ -1,5 +1,5 @@
-- name: Local
-  slug: /local
+- name: Serena
+  slug: /serena
   photos:
     - title: USA
       alt: USA
