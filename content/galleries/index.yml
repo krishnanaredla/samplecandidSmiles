@@ -1,15 +1,15 @@
 - name: Serena
-  slug: /local
+  slug: /
   photos:
     - title: USA
       alt: USA
-      url: ../assets/00000414.jpg  
+      url: https://github.com/krishnanaredla/samplecandidSmiles/blob/master/content/assets/00000414.JPG  
     - title: Marrakesh
       alt: Marrakesh
-      url: ../assets/00000427.jpg
+      url: https://github.com/krishnanaredla/samplecandidSmiles/blob/master/content/assets/00000427.JPG
     - title: San Francisco
       alt: San Francisco
-      url: ../assets/00000446.jpg
+      url: https://github.com/krishnanaredla/samplecandidSmiles/blob/master/content/assets/00000446.JPG
     - title: Italy
       alt: Italy
-      url: ../assets/00000488.jpg
+      url: https://github.com/krishnanaredla/samplecandidSmiles/blob/master/content/assets/00000488.JPG
